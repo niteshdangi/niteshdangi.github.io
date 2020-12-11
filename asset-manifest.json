@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.107bec81.chunk.css",
+    "main.js": "/static/js/main.af34cd1c.chunk.js",
+    "main.js.map": "/static/js/main.af34cd1c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f187def9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f187def9.js.map",
+    "static/js/2.897165cc.chunk.js": "/static/js/2.897165cc.chunk.js",
+    "static/js/2.897165cc.chunk.js.map": "/static/js/2.897165cc.chunk.js.map",
+    "static/js/3.e73af855.chunk.js": "/static/js/3.e73af855.chunk.js",
+    "static/js/3.e73af855.chunk.js.map": "/static/js/3.e73af855.chunk.js.map",
+    "static/js/4.97bcc0e4.chunk.js": "/static/js/4.97bcc0e4.chunk.js",
+    "static/js/4.97bcc0e4.chunk.js.map": "/static/js/4.97bcc0e4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.107bec81.chunk.css.map": "/static/css/main.107bec81.chunk.css.map",
+    "static/js/2.897165cc.chunk.js.LICENSE.txt": "/static/js/2.897165cc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Raleway-VariableFont_wght.942638e6.ttf",
+    "static/media/home.2b5f05af.png": "/static/media/home.2b5f05af.png",
+    "static/media/morvii.eeac1338.png": "/static/media/morvii.eeac1338.png",
+    "static/media/shophub.d082695e.png": "/static/media/shophub.d082695e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f187def9.js",
+    "static/js/2.897165cc.chunk.js",
+    "static/css/main.107bec81.chunk.css",
+    "static/js/main.af34cd1c.chunk.js"
+  ]
+}
