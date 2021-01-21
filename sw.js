@@ -1,8 +1,8 @@
 var __wpo = {
   "assets": {
     "main": [
-      "/static/media/Cinzel-VariableFont_wght.f1068981.ttf",
       "/static/media/Raleway-VariableFont_wght.942638e6.ttf",
+      "/static/media/Cinzel-VariableFont_wght.f1068981.ttf",
       "/static/media/home.2b5f05af.png",
       "/static/media/gmail.1fb8cac8.png",
       "/static/media/insta.459d14ac.png",
@@ -38,8 +38,8 @@ var __wpo = {
   },
   "externals": [],
   "hashesMap": {
-    "f9784252506646e82487831ab3a2dbbf91d325de": "/static/media/Cinzel-VariableFont_wght.f1068981.ttf",
     "efa4e04b26524e3de1546c97c03a4cfc0c80bb76": "/static/media/Raleway-VariableFont_wght.942638e6.ttf",
+    "f9784252506646e82487831ab3a2dbbf91d325de": "/static/media/Cinzel-VariableFont_wght.f1068981.ttf",
     "960dc756bcdea937d561a8109acb464122314fe2": "/static/media/home.2b5f05af.png",
     "1ac37f7686e75ff98f010fadd1c0fac755e3b263": "/static/media/gmail.1fb8cac8.png",
     "238fa92db654f8e4c8e56bcea7a53b749c2b4ce7": "/static/media/insta.459d14ac.png",
@@ -72,7 +72,7 @@ var __wpo = {
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "21/1/2021, 9:46:21 pm",
+  "version": "21/1/2021, 10:03:11 pm",
   "name": "webpack-offline",
   "pluginVersion": "5.0.7",
   "relativePaths": false
