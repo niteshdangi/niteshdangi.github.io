@@ -1,8 +1,8 @@
 var __wpo = {
   "assets": {
     "main": [
-      "/static/media/Raleway-VariableFont_wght.942638e6.ttf",
       "/static/media/Cinzel-VariableFont_wght.f1068981.ttf",
+      "/static/media/Raleway-VariableFont_wght.942638e6.ttf",
       "/static/media/home.2b5f05af.png",
       "/static/media/gmail.1fb8cac8.png",
       "/static/media/insta.459d14ac.png",
@@ -25,12 +25,12 @@ var __wpo = {
       "/static/media/atomosphere.0672b0bd.svg",
       "/static/css/main.479603cb.chunk.css",
       "/static/js/main.ea339afe.chunk.js",
-      "/static/js/runtime-main.1f7ec575.js",
-      "/static/js/2.a7281a43.chunk.js",
+      "/static/js/runtime-main.bdea7800.js",
+      "/static/js/2.13a9f826.chunk.js",
       "/static/css/3.0d184aa3.chunk.css",
-      "/static/js/3.8363cc81.chunk.js",
+      "/static/js/3.15bb5d0d.chunk.js",
       "/static/js/4.867689d2.chunk.js",
-      "/static/js/2.a7281a43.chunk.js.LICENSE.txt",
+      "/static/js/2.13a9f826.chunk.js.LICENSE.txt",
       "/"
     ],
     "additional": [],
@@ -38,8 +38,8 @@ var __wpo = {
   },
   "externals": [],
   "hashesMap": {
-    "efa4e04b26524e3de1546c97c03a4cfc0c80bb76": "/static/media/Raleway-VariableFont_wght.942638e6.ttf",
     "f9784252506646e82487831ab3a2dbbf91d325de": "/static/media/Cinzel-VariableFont_wght.f1068981.ttf",
+    "efa4e04b26524e3de1546c97c03a4cfc0c80bb76": "/static/media/Raleway-VariableFont_wght.942638e6.ttf",
     "960dc756bcdea937d561a8109acb464122314fe2": "/static/media/home.2b5f05af.png",
     "1ac37f7686e75ff98f010fadd1c0fac755e3b263": "/static/media/gmail.1fb8cac8.png",
     "238fa92db654f8e4c8e56bcea7a53b749c2b4ce7": "/static/media/insta.459d14ac.png",
@@ -62,17 +62,17 @@ var __wpo = {
     "8c9402513b0bde541cbbe4fe87225323be2dc66d": "/static/media/atomosphere.0672b0bd.svg",
     "29404795a8aead8fae8612096b9408b26d2d64eb": "/static/css/main.479603cb.chunk.css",
     "51647733bf7de86b36f5a1f56a3ad0eb9737c8f4": "/static/js/main.ea339afe.chunk.js",
-    "8a1982694469f4f13411dd7ac6253d1777875aad": "/static/js/runtime-main.1f7ec575.js",
-    "626d842a756125638a0a4505d64daf5df8217d5b": "/static/js/2.a7281a43.chunk.js",
+    "17ea7b842fc118b8ac94261e89340570ee3e96dc": "/static/js/runtime-main.bdea7800.js",
+    "49db2dfa050b0941b22ba096888b4680a818cc11": "/static/js/2.13a9f826.chunk.js",
     "312b79d450b1e8ddbc730cb60c13ee9ddfc41cc6": "/static/css/3.0d184aa3.chunk.css",
-    "6d2c1657542baacf7371be7b2cfedec5a2mb39d7": "/static/js/3.8363cc81.chunk.js",
+    "0109e2420651393aad268ddef50f467395c4ed80": "/static/js/3.15bb5d0d.chunk.js",
     "6654b22b7ef3b79e8d58e01b3412ec357860913f": "/static/js/4.867689d2.chunk.js",
-    "d683489f24d249d0a4ccea91714c4fc8f8eedf27": "/static/js/2.a7281a43.chunk.js.LICENSE.txt",
-    "df56492cdb2d09f8771793a76743cbfe6b2dd0e4": "/"
+    "d683489f24d249d0a4ccea91714c4fc8f8eedf27": "/static/js/2.13a9f826.chunk.js.LICENSE.txt",
+    "d39e9e6bd72f785d3e79e2a19d57f0978ca3cdf7": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "22/1/2021, 10:03:11 am",
+  "version": "22/1/2021, 1:21:30 pm",
   "name": "webpack-offline",
   "pluginVersion": "5.0.7",
   "relativePaths": false
