@@ -5,8 +5,8 @@
     "main.js.map": "/static/js/main.ea339afe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bdea7800.js",
     "runtime-main.js.map": "/static/js/runtime-main.bdea7800.js.map",
-    "static/js/2.13a9f826.chunk.js": "/static/js/2.13a9f826.chunk.js",
-    "static/js/2.13a9f826.chunk.js.map": "/static/js/2.13a9f826.chunk.js.map",
+    "static/js/2.a7281a43.chunk.js": "/static/js/2.a7281a43.chunk.js",
+    "static/js/2.a7281a43.chunk.js.map": "/static/js/2.a7281a43.chunk.js.map",
     "static/css/3.0d184aa3.chunk.css": "/static/css/3.0d184aa3.chunk.css",
     "static/js/3.15bb5d0d.chunk.js": "/static/js/3.15bb5d0d.chunk.js",
     "static/js/3.15bb5d0d.chunk.js.map": "/static/js/3.15bb5d0d.chunk.js.map",
@@ -15,7 +15,7 @@
     "index.html": "/index.html",
     "static/css/3.0d184aa3.chunk.css.map": "/static/css/3.0d184aa3.chunk.css.map",
     "static/css/main.479603cb.chunk.css.map": "/static/css/main.479603cb.chunk.css.map",
-    "static/js/2.13a9f826.chunk.js.LICENSE.txt": "/static/js/2.13a9f826.chunk.js.LICENSE.txt",
+    "static/js/2.a7281a43.chunk.js.LICENSE.txt": "/static/js/2.a7281a43.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Raleway-VariableFont_wght.942638e6.ttf",
     "static/media/NiteshKumarPublic.70455623.pdf": "/static/media/NiteshKumarPublic.70455623.pdf",
     "static/media/aibot.6de94926.png": "/static/media/aibot.6de94926.png",
@@ -41,7 +41,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bdea7800.js",
-    "static/js/2.13a9f826.chunk.js",
+    "static/js/2.a7281a43.chunk.js",
     "static/css/main.479603cb.chunk.css",
     "static/js/main.ea339afe.chunk.js"
   ]
