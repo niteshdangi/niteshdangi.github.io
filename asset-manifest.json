@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23b5751b.css",
+    "main.js": "/static/js/main.68535e47.js",
+    "static/js/651.8c1fa4a7.chunk.js": "/static/js/651.8c1fa4a7.chunk.js",
+    "static/media/computer_graphics.svg": "/static/media/computer_graphics.255e0a44c93c10d76a134ef0d7b82a43.svg",
+    "static/media/xcode.svg": "/static/media/xcode.0cdad71f6a90a004d6b8ac0dabcd14d8.svg",
+    "static/media/nestjs.svg": "/static/media/nestjs.f0bfea9035eff373104123f44fe86d11.svg",
+    "static/media/android-studio.svg": "/static/media/android-studio.3ae348b91fcf47c5339770a7852ed372.svg",
+    "static/media/react.svg": "/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/kotlin.svg": "/static/media/kotlin.ef1d4866d0adefd7273a51c5fa7358c7.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.615ffbea9529ca7047ed8a912bfd94b2.svg",
+    "static/media/swift.svg": "/static/media/swift.75f20f67a72ea6eb709242278fbc431b.svg",
+    "static/media/python.svg": "/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/nextjs.svg": "/static/media/nextjs.81461ea0446a899af1d2a5dab9bd0e7a.svg",
+    "static/media/typescript.svg": "/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
+    "static/media/git.svg": "/static/media/git.98b115687dfc759d25ae8a1d8f7d7d32.svg",
+    "static/media/tailwind-css.svg": "/static/media/tailwind-css.315d0ac2a2708d5f06972906113dfbf1.svg",
+    "index.html": "/index.html",
+    "static/media/css.svg": "/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html.svg": "/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "main.23b5751b.css.map": "/static/css/main.23b5751b.css.map",
+    "main.68535e47.js.map": "/static/js/main.68535e47.js.map",
+    "651.8c1fa4a7.chunk.js.map": "/static/js/651.8c1fa4a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b5751b.css",
+    "static/js/main.68535e47.js"
+  ]
+}
